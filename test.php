@@ -11,6 +11,6 @@
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Web30india_Faq_test',
+    'Web30india_Faq_test_magento',
     __DIR__
 );
